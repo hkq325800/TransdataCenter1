@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://localhost/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" targetNamespace="http://localhost/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://localhost/">
+      <s:element name="Validate">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="TokenValue" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="AppID" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ValidateResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ValidateResult" type="tns:ClientEmployee" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ClientEmployee">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="EMPID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="EMPNAME" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="EMPSEX" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="DEPID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="DEPNAME" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="POSTID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="POSTNAME" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="ROLEIDS" type="tns:ArrayOfInt" />
+          <s:element minOccurs="0" maxOccurs="1" name="MODULES" type="tns:ArrayOfModuleInfo" />
+          <s:element minOccurs="0" maxOccurs="1" name="DEPTS" type="tns:ArrayOfDeptInfo" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ArrayOfInt">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="int" type="s:int" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ArrayOfModuleInfo">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="ModuleInfo" type="tns:ModuleInfo" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ModuleInfo">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="moduleID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="moduleName" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="moduleType" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="fatherID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="moduleAddress" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="sysID" type="s:int" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ArrayOfDeptInfo">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="DeptInfo" type="tns:DeptInfo" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="DeptInfo">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="deptID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="deptName" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="deptType" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="parentID" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="GetNewToken">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="OldToken" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="NewSysID" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="Password" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetNewTokenResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetNewTokenResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="ValidateSoapIn">
+    <wsdl:part name="parameters" element="tns:Validate" />
+  </wsdl:message>
+  <wsdl:message name="ValidateSoapOut">
+    <wsdl:part name="parameters" element="tns:ValidateResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetNewTokenSoapIn">
+    <wsdl:part name="parameters" element="tns:GetNewToken" />
+  </wsdl:message>
+  <wsdl:message name="GetNewTokenSoapOut">
+    <wsdl:part name="parameters" element="tns:GetNewTokenResponse" />
+  </wsdl:message>
+  <wsdl:portType name="SSOServiceSoap">
+    <wsdl:operation name="Validate">
+      <wsdl:input message="tns:ValidateSoapIn" />
+      <wsdl:output message="tns:ValidateSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetNewToken">
+      <wsdl:input message="tns:GetNewTokenSoapIn" />
+      <wsdl:output message="tns:GetNewTokenSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="SSOServiceSoap" type="tns:SSOServiceSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="Validate">
+      <soap:operation soapAction="http://localhost/Validate" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetNewToken">
+      <soap:operation soapAction="http://localhost/GetNewToken" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="SSOServiceSoap12" type="tns:SSOServiceSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="Validate">
+      <soap12:operation soapAction="http://localhost/Validate" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetNewToken">
+      <soap12:operation soapAction="http://localhost/GetNewToken" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="SSOService">
+    <wsdl:port name="SSOServiceSoap" binding="tns:SSOServiceSoap">
+      <soap:address location="http://192.168.254.20:8080/SSOService.asmx" />
+    </wsdl:port>
+    <wsdl:port name="SSOServiceSoap12" binding="tns:SSOServiceSoap12">
+      <soap12:address location="http://192.168.254.20:8080/SSOService.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

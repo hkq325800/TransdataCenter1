@@ -1,0 +1,90 @@
+D:\快盘\项目-数据中心\TransdataCenter\BLL\bin\Debug\BLL.dll
+D:\快盘\项目-数据中心\TransdataCenter\BLL\bin\Debug\BLL.pdb
+D:\快盘\项目-数据中心\TransdataCenter\BLL\bin\Debug\DAL.dll
+D:\快盘\项目-数据中心\TransdataCenter\BLL\bin\Debug\DBAccess.dll
+D:\快盘\项目-数据中心\TransdataCenter\BLL\bin\Debug\DAL.pdb
+D:\快盘\项目-数据中心\TransdataCenter\BLL\bin\Debug\DBAccess.pdb
+D:\快盘\项目-数据中心\TransdataCenter\BLL\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\快盘\项目-数据中心\TransdataCenter\BLL\obj\x86\Debug\BLL.dll
+D:\快盘\项目-数据中心\TransdataCenter\BLL\obj\x86\Debug\BLL.pdb
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\TransdataCenter\BLL\bin\Debug\BLL.dll
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\TransdataCenter\BLL\bin\Debug\BLL.pdb
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\TransdataCenter\BLL\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\TransdataCenter\BLL\bin\Debug\DBAccess.dll
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\TransdataCenter\BLL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\TransdataCenter\BLL\bin\Debug\DBAccess.pdb
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\TransdataCenter\BLL\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\TransdataCenter\BLL\obj\x86\Debug\BLL.dll
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\TransdataCenter\BLL\obj\x86\Debug\BLL.pdb
+F:\Visual C#\TransdataCenter\BLL\bin\Debug\BLL.dll
+F:\Visual C#\TransdataCenter\BLL\bin\Debug\BLL.pdb
+F:\Visual C#\TransdataCenter\BLL\bin\Debug\DAL.dll
+F:\Visual C#\TransdataCenter\BLL\bin\Debug\DBAccess.dll
+F:\Visual C#\TransdataCenter\BLL\bin\Debug\DAL.pdb
+F:\Visual C#\TransdataCenter\BLL\bin\Debug\DBAccess.pdb
+F:\Visual C#\TransdataCenter\BLL\obj\x86\Debug\BLL.csprojResolveAssemblyReference.cache
+F:\Visual C#\TransdataCenter\BLL\obj\x86\Debug\BLL.dll
+F:\Visual C#\TransdataCenter\BLL\obj\x86\Debug\BLL.pdb
+E:\Visual C#\TransdataCenter\BLL\bin\Debug\BLL.dll
+E:\Visual C#\TransdataCenter\BLL\bin\Debug\BLL.pdb
+E:\Visual C#\TransdataCenter\BLL\bin\Debug\DAL.dll
+E:\Visual C#\TransdataCenter\BLL\bin\Debug\DBAccess.dll
+E:\Visual C#\TransdataCenter\BLL\bin\Debug\DAL.pdb
+E:\Visual C#\TransdataCenter\BLL\bin\Debug\DBAccess.pdb
+E:\Visual C#\TransdataCenter\BLL\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Visual C#\TransdataCenter\BLL\obj\x86\Debug\BLL.dll
+E:\Visual C#\TransdataCenter\BLL\obj\x86\Debug\BLL.pdb
+D:\桌面\Asp.net\TransdataCenter\BLL\bin\Debug\BLL.dll
+D:\桌面\Asp.net\TransdataCenter\BLL\bin\Debug\BLL.pdb
+D:\桌面\Asp.net\TransdataCenter\BLL\bin\Debug\DAL.dll
+D:\桌面\Asp.net\TransdataCenter\BLL\bin\Debug\DBAccess.dll
+D:\桌面\Asp.net\TransdataCenter\BLL\bin\Debug\DAL.pdb
+D:\桌面\Asp.net\TransdataCenter\BLL\bin\Debug\DBAccess.pdb
+D:\桌面\Asp.net\TransdataCenter\BLL\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\桌面\Asp.net\TransdataCenter\BLL\obj\x86\Debug\BLL.dll
+D:\桌面\Asp.net\TransdataCenter\BLL\obj\x86\Debug\BLL.pdb
+D:\桌面\Asp.net\TransdataCenter1\BLL\bin\Debug\BLL.dll
+D:\桌面\Asp.net\TransdataCenter1\BLL\bin\Debug\BLL.pdb
+D:\桌面\Asp.net\TransdataCenter1\BLL\bin\Debug\DAL.dll
+D:\桌面\Asp.net\TransdataCenter1\BLL\bin\Debug\DBAccess.dll
+D:\桌面\Asp.net\TransdataCenter1\BLL\bin\Debug\DAL.pdb
+D:\桌面\Asp.net\TransdataCenter1\BLL\bin\Debug\DBAccess.pdb
+D:\桌面\Asp.net\TransdataCenter1\BLL\obj\x86\Debug\BLL.dll
+D:\桌面\Asp.net\TransdataCenter1\BLL\obj\x86\Debug\BLL.pdb
+D:\桌面\Asp.net\TransdataCenter1\BLL\obj\x86\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\桌面\Asp.net\TransdataCenterV4.23\TransdataCenter1\BLL\bin\Debug\BLL.dll
+D:\桌面\Asp.net\TransdataCenterV4.23\TransdataCenter1\BLL\bin\Debug\BLL.pdb
+D:\桌面\Asp.net\TransdataCenterV4.23\TransdataCenter1\BLL\bin\Debug\DAL.dll
+D:\桌面\Asp.net\TransdataCenterV4.23\TransdataCenter1\BLL\bin\Debug\DBAccess.dll
+D:\桌面\Asp.net\TransdataCenterV4.23\TransdataCenter1\BLL\bin\Debug\DAL.pdb
+D:\桌面\Asp.net\TransdataCenterV4.23\TransdataCenter1\BLL\bin\Debug\DBAccess.pdb
+D:\桌面\Asp.net\TransdataCenterV4.23\TransdataCenter1\BLL\obj\x86\Debug\BLL.dll
+D:\桌面\Asp.net\TransdataCenterV4.23\TransdataCenter1\BLL\obj\x86\Debug\BLL.pdb
+D:\桌面\Asp.net\TransdataCenterV4.23\TransdataCenter1\BLL\obj\x86\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\桌面\Asp.net\TransdataCenterV5.12\TransdataCenterV5.12\TransdataCenterV5.10\TransdataCenter1\BLL\bin\Debug\BLL.dll
+D:\桌面\Asp.net\TransdataCenterV5.12\TransdataCenterV5.12\TransdataCenterV5.10\TransdataCenter1\BLL\bin\Debug\BLL.pdb
+D:\桌面\Asp.net\TransdataCenterV5.12\TransdataCenterV5.12\TransdataCenterV5.10\TransdataCenter1\BLL\bin\Debug\DAL.dll
+D:\桌面\Asp.net\TransdataCenterV5.12\TransdataCenterV5.12\TransdataCenterV5.10\TransdataCenter1\BLL\bin\Debug\DBAccess.dll
+D:\桌面\Asp.net\TransdataCenterV5.12\TransdataCenterV5.12\TransdataCenterV5.10\TransdataCenter1\BLL\bin\Debug\DAL.pdb
+D:\桌面\Asp.net\TransdataCenterV5.12\TransdataCenterV5.12\TransdataCenterV5.10\TransdataCenter1\BLL\bin\Debug\DBAccess.pdb
+D:\桌面\Asp.net\TransdataCenterV5.12\TransdataCenterV5.12\TransdataCenterV5.10\TransdataCenter1\BLL\obj\x86\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\桌面\Asp.net\TransdataCenterV5.12\TransdataCenterV5.12\TransdataCenterV5.10\TransdataCenter1\BLL\obj\x86\Debug\BLL.dll
+D:\桌面\Asp.net\TransdataCenterV5.12\TransdataCenterV5.12\TransdataCenterV5.10\TransdataCenter1\BLL\obj\x86\Debug\BLL.pdb
+D:\桌面\Asp.net\TransdataCenterV5.14\TransdataCenter1\BLL\bin\Debug\BLL.dll
+D:\桌面\Asp.net\TransdataCenterV5.14\TransdataCenter1\BLL\bin\Debug\BLL.pdb
+D:\桌面\Asp.net\TransdataCenterV5.14\TransdataCenter1\BLL\bin\Debug\DAL.dll
+D:\桌面\Asp.net\TransdataCenterV5.14\TransdataCenter1\BLL\bin\Debug\DBAccess.dll
+D:\桌面\Asp.net\TransdataCenterV5.14\TransdataCenter1\BLL\bin\Debug\DAL.pdb
+D:\桌面\Asp.net\TransdataCenterV5.14\TransdataCenter1\BLL\bin\Debug\DBAccess.pdb
+D:\桌面\Asp.net\TransdataCenterV5.14\TransdataCenter1\BLL\obj\x86\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\桌面\Asp.net\TransdataCenterV5.14\TransdataCenter1\BLL\obj\x86\Debug\BLL.dll
+D:\桌面\Asp.net\TransdataCenterV5.14\TransdataCenter1\BLL\obj\x86\Debug\BLL.pdb
+D:\桌面\Asp.net\TransdataCenterV5.17\TransdataCenterV5.17\TransdataCenter1\BLL\bin\Debug\BLL.dll
+D:\桌面\Asp.net\TransdataCenterV5.17\TransdataCenterV5.17\TransdataCenter1\BLL\bin\Debug\BLL.pdb
+D:\桌面\Asp.net\TransdataCenterV5.17\TransdataCenterV5.17\TransdataCenter1\BLL\bin\Debug\DAL.dll
+D:\桌面\Asp.net\TransdataCenterV5.17\TransdataCenterV5.17\TransdataCenter1\BLL\bin\Debug\DBAccess.dll
+D:\桌面\Asp.net\TransdataCenterV5.17\TransdataCenterV5.17\TransdataCenter1\BLL\bin\Debug\DAL.pdb
+D:\桌面\Asp.net\TransdataCenterV5.17\TransdataCenterV5.17\TransdataCenter1\BLL\bin\Debug\DBAccess.pdb
+D:\桌面\Asp.net\TransdataCenterV5.17\TransdataCenterV5.17\TransdataCenter1\BLL\obj\x86\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\桌面\Asp.net\TransdataCenterV5.17\TransdataCenterV5.17\TransdataCenter1\BLL\obj\x86\Debug\BLL.dll
+D:\桌面\Asp.net\TransdataCenterV5.17\TransdataCenterV5.17\TransdataCenter1\BLL\obj\x86\Debug\BLL.pdb

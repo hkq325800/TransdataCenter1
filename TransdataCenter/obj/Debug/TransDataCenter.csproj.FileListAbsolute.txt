@@ -1,0 +1,187 @@
+D:\快盘\项目-数据中心\TransdataCenter\TransdataCenter\bin\TransdataCenter.dll
+D:\快盘\项目-数据中心\TransdataCenter\TransdataCenter\bin\TransdataCenter.pdb
+D:\快盘\项目-数据中心\TransdataCenter\TransdataCenter\bin\BLL.dll
+D:\快盘\项目-数据中心\TransdataCenter\TransdataCenter\bin\DAL.dll
+D:\快盘\项目-数据中心\TransdataCenter\TransdataCenter\bin\DBAccess.dll
+D:\快盘\项目-数据中心\TransdataCenter\TransdataCenter\bin\BLL.pdb
+D:\快盘\项目-数据中心\TransdataCenter\TransdataCenter\bin\DAL.pdb
+D:\快盘\项目-数据中心\TransdataCenter\TransdataCenter\bin\DBAccess.pdb
+D:\快盘\项目-数据中心\TransdataCenter\TransdataCenter\obj\Debug\ResolveAssemblyReference.cache
+D:\快盘\项目-数据中心\TransdataCenter\TransdataCenter\obj\Debug\TransdataCenter.dll
+D:\快盘\项目-数据中心\TransdataCenter\TransdataCenter\obj\Debug\TransdataCenter.pdb
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\TransdataCenter\TransdataCenter\bin\TransdataCenter.dll
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\TransdataCenter\TransdataCenter\bin\TransdataCenter.pdb
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\TransdataCenter\TransdataCenter\bin\BLL.dll
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\TransdataCenter\TransdataCenter\bin\DAL.dll
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\TransdataCenter\TransdataCenter\bin\DBAccess.dll
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\TransdataCenter\TransdataCenter\bin\BLL.pdb
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\TransdataCenter\TransdataCenter\bin\DAL.pdb
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\TransdataCenter\TransdataCenter\bin\DBAccess.pdb
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\TransdataCenter\TransdataCenter\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\TransdataCenter\TransdataCenter\obj\Debug\TransdataCenter.dll
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\TransdataCenter\TransdataCenter\obj\Debug\TransdataCenter.pdb
+E:\Visual C#\TransdataCenter\TransdataCenter\bin\TransdataCenter.dll
+E:\Visual C#\TransdataCenter\TransdataCenter\bin\TransdataCenter.pdb
+E:\Visual C#\TransdataCenter\TransdataCenter\bin\BLL.dll
+E:\Visual C#\TransdataCenter\TransdataCenter\bin\DAL.dll
+E:\Visual C#\TransdataCenter\TransdataCenter\bin\DBAccess.dll
+E:\Visual C#\TransdataCenter\TransdataCenter\bin\BLL.pdb
+E:\Visual C#\TransdataCenter\TransdataCenter\bin\DAL.pdb
+E:\Visual C#\TransdataCenter\TransdataCenter\bin\DBAccess.pdb
+E:\Visual C#\TransdataCenter\TransdataCenter\obj\Debug\ResolveAssemblyReference.cache
+E:\Visual C#\TransdataCenter\TransdataCenter\obj\Debug\TransdataCenter.dll
+E:\Visual C#\TransdataCenter\TransdataCenter\obj\Debug\TransdataCenter.pdb
+F:\Visual C#\TransdataCenter\TransdataCenter\bin\TransdataCenter.dll
+F:\Visual C#\TransdataCenter\TransdataCenter\bin\TransdataCenter.pdb
+F:\Visual C#\TransdataCenter\TransdataCenter\bin\BLL.dll
+F:\Visual C#\TransdataCenter\TransdataCenter\bin\DAL.dll
+F:\Visual C#\TransdataCenter\TransdataCenter\bin\DBAccess.dll
+F:\Visual C#\TransdataCenter\TransdataCenter\bin\BLL.pdb
+F:\Visual C#\TransdataCenter\TransdataCenter\bin\DAL.pdb
+F:\Visual C#\TransdataCenter\TransdataCenter\bin\DBAccess.pdb
+F:\Visual C#\TransdataCenter\TransdataCenter\obj\Debug\TransDataCenter.csprojResolveAssemblyReference.cache
+F:\Visual C#\TransdataCenter\TransdataCenter\obj\Debug\TransdataCenter.dll
+F:\Visual C#\TransdataCenter\TransdataCenter\obj\Debug\TransdataCenter.pdb
+D:\桌面\Asp.net\TransdataCenter\TransdataCenter\bin\TransdataCenter.dll
+D:\桌面\Asp.net\TransdataCenter\TransdataCenter\bin\TransdataCenter.pdb
+D:\桌面\Asp.net\TransdataCenter\TransdataCenter\bin\BLL.dll
+D:\桌面\Asp.net\TransdataCenter\TransdataCenter\bin\DAL.dll
+D:\桌面\Asp.net\TransdataCenter\TransdataCenter\bin\DBAccess.dll
+D:\桌面\Asp.net\TransdataCenter\TransdataCenter\bin\BLL.pdb
+D:\桌面\Asp.net\TransdataCenter\TransdataCenter\bin\DAL.pdb
+D:\桌面\Asp.net\TransdataCenter\TransdataCenter\bin\DBAccess.pdb
+D:\桌面\Asp.net\TransdataCenter\TransdataCenter\obj\Debug\ResolveAssemblyReference.cache
+D:\桌面\Asp.net\TransdataCenter\TransdataCenter\obj\Debug\TransdataCenter.dll
+D:\桌面\Asp.net\TransdataCenter\TransdataCenter\obj\Debug\TransdataCenter.pdb
+D:\桌面\Asp.net\TransdataCenter[backup]\backup2TransdataCenter\TransdataCenter\TransdataCenter\bin\TransdataCenter.dll
+D:\桌面\Asp.net\TransdataCenter[backup]\backup2TransdataCenter\TransdataCenter\TransdataCenter\bin\TransdataCenter.pdb
+D:\桌面\Asp.net\TransdataCenter[backup]\backup2TransdataCenter\TransdataCenter\TransdataCenter\bin\BLL.dll
+D:\桌面\Asp.net\TransdataCenter[backup]\backup2TransdataCenter\TransdataCenter\TransdataCenter\bin\DAL.dll
+D:\桌面\Asp.net\TransdataCenter[backup]\backup2TransdataCenter\TransdataCenter\TransdataCenter\bin\DBAccess.dll
+D:\桌面\Asp.net\TransdataCenter[backup]\backup2TransdataCenter\TransdataCenter\TransdataCenter\bin\BLL.pdb
+D:\桌面\Asp.net\TransdataCenter[backup]\backup2TransdataCenter\TransdataCenter\TransdataCenter\bin\DAL.pdb
+D:\桌面\Asp.net\TransdataCenter[backup]\backup2TransdataCenter\TransdataCenter\TransdataCenter\bin\DBAccess.pdb
+D:\桌面\Asp.net\TransdataCenter[backup]\backup2TransdataCenter\TransdataCenter\TransdataCenter\obj\Debug\ResolveAssemblyReference.cache
+D:\桌面\Asp.net\TransdataCenter[backup]\backup2TransdataCenter\TransdataCenter\TransdataCenter\obj\Debug\TransdataCenter.dll
+D:\桌面\Asp.net\TransdataCenter[backup]\backup2TransdataCenter\TransdataCenter\TransdataCenter\obj\Debug\TransdataCenter.pdb
+D:\桌面\Asp.net\TransdataCenter1\TransdataCenter\bin\TransdataCenter.dll
+D:\桌面\Asp.net\TransdataCenter1\TransdataCenter\bin\TransdataCenter.pdb
+D:\桌面\Asp.net\TransdataCenter1\TransdataCenter\bin\BLL.dll
+D:\桌面\Asp.net\TransdataCenter1\TransdataCenter\bin\DAL.dll
+D:\桌面\Asp.net\TransdataCenter1\TransdataCenter\bin\DBAccess.dll
+D:\桌面\Asp.net\TransdataCenter1\TransdataCenter\bin\BLL.pdb
+D:\桌面\Asp.net\TransdataCenter1\TransdataCenter\bin\DAL.pdb
+D:\桌面\Asp.net\TransdataCenter1\TransdataCenter\bin\DBAccess.pdb
+D:\桌面\Asp.net\TransdataCenter1\TransdataCenter\obj\Debug\TransdataCenter.dll
+D:\桌面\Asp.net\TransdataCenter1\TransdataCenter\obj\Debug\TransdataCenter.pdb
+D:\桌面\Asp.net\TransdataCenter1\TransdataCenter\obj\Debug\TransDataCenter.csprojResolveAssemblyReference.cache
+E:\ProgramCode\html+css+js\公交\TransdataCenterV4.21\TransdataCenter1\TransdataCenter\bin\TransdataCenter.dll
+E:\ProgramCode\html+css+js\公交\TransdataCenterV4.21\TransdataCenter1\TransdataCenter\bin\TransdataCenter.pdb
+E:\ProgramCode\html+css+js\公交\TransdataCenterV4.21\TransdataCenter1\TransdataCenter\bin\BLL.dll
+E:\ProgramCode\html+css+js\公交\TransdataCenterV4.21\TransdataCenter1\TransdataCenter\bin\DAL.dll
+E:\ProgramCode\html+css+js\公交\TransdataCenterV4.21\TransdataCenter1\TransdataCenter\bin\DBAccess.dll
+E:\ProgramCode\html+css+js\公交\TransdataCenterV4.21\TransdataCenter1\TransdataCenter\bin\BLL.pdb
+E:\ProgramCode\html+css+js\公交\TransdataCenterV4.21\TransdataCenter1\TransdataCenter\bin\DAL.pdb
+E:\ProgramCode\html+css+js\公交\TransdataCenterV4.21\TransdataCenter1\TransdataCenter\bin\DBAccess.pdb
+E:\ProgramCode\html+css+js\公交\TransdataCenterV4.21\TransdataCenter1\TransdataCenter\obj\Debug\TransDataCenter.csprojResolveAssemblyReference.cache
+E:\ProgramCode\html+css+js\公交\TransdataCenterV4.21\TransdataCenter1\TransdataCenter\obj\Debug\TransdataCenter.dll
+E:\ProgramCode\html+css+js\公交\TransdataCenterV4.21\TransdataCenter1\TransdataCenter\obj\Debug\TransdataCenter.pdb
+D:\桌面\Asp.net\TransdataCenterV4.23\TransdataCenter1\TransdataCenter\bin\TransdataCenter.dll
+D:\桌面\Asp.net\TransdataCenterV4.23\TransdataCenter1\TransdataCenter\bin\TransdataCenter.pdb
+D:\桌面\Asp.net\TransdataCenterV4.23\TransdataCenter1\TransdataCenter\bin\BLL.dll
+D:\桌面\Asp.net\TransdataCenterV4.23\TransdataCenter1\TransdataCenter\bin\DAL.dll
+D:\桌面\Asp.net\TransdataCenterV4.23\TransdataCenter1\TransdataCenter\bin\DBAccess.dll
+D:\桌面\Asp.net\TransdataCenterV4.23\TransdataCenter1\TransdataCenter\bin\BLL.pdb
+D:\桌面\Asp.net\TransdataCenterV4.23\TransdataCenter1\TransdataCenter\bin\DAL.pdb
+D:\桌面\Asp.net\TransdataCenterV4.23\TransdataCenter1\TransdataCenter\bin\DBAccess.pdb
+D:\桌面\Asp.net\TransdataCenterV4.23\TransdataCenter1\TransdataCenter\obj\Debug\TransDataCenter.csprojResolveAssemblyReference.cache
+D:\桌面\Asp.net\TransdataCenterV4.23\TransdataCenter1\TransdataCenter\obj\Debug\TransdataCenter.dll
+D:\桌面\Asp.net\TransdataCenterV4.23\TransdataCenter1\TransdataCenter\obj\Debug\TransdataCenter.pdb
+E:\ProgramCode\html+css+js\公交\TransdataCenterV5.9\TransdataCenter1\TransdataCenter\bin\TransdataCenter.dll
+E:\ProgramCode\html+css+js\公交\TransdataCenterV5.9\TransdataCenter1\TransdataCenter\bin\TransdataCenter.pdb
+E:\ProgramCode\html+css+js\公交\TransdataCenterV5.9\TransdataCenter1\TransdataCenter\bin\BLL.dll
+E:\ProgramCode\html+css+js\公交\TransdataCenterV5.9\TransdataCenter1\TransdataCenter\bin\DAL.dll
+E:\ProgramCode\html+css+js\公交\TransdataCenterV5.9\TransdataCenter1\TransdataCenter\bin\DBAccess.dll
+E:\ProgramCode\html+css+js\公交\TransdataCenterV5.9\TransdataCenter1\TransdataCenter\bin\BLL.pdb
+E:\ProgramCode\html+css+js\公交\TransdataCenterV5.9\TransdataCenter1\TransdataCenter\bin\DAL.pdb
+E:\ProgramCode\html+css+js\公交\TransdataCenterV5.9\TransdataCenter1\TransdataCenter\bin\DBAccess.pdb
+E:\ProgramCode\html+css+js\公交\TransdataCenterV5.9\TransdataCenter1\TransdataCenter\obj\Debug\TransDataCenter.csprojResolveAssemblyReference.cache
+E:\ProgramCode\html+css+js\公交\TransdataCenterV5.9\TransdataCenter1\TransdataCenter\obj\Debug\TransdataCenter.dll
+E:\ProgramCode\html+css+js\公交\TransdataCenterV5.9\TransdataCenter1\TransdataCenter\obj\Debug\TransdataCenter.pdb
+D:\桌面\Asp.net\TransdataCenterV5.10\TransdataCenterV5.10\TransdataCenter1\TransdataCenter\bin\TransdataCenter.dll
+D:\桌面\Asp.net\TransdataCenterV5.10\TransdataCenterV5.10\TransdataCenter1\TransdataCenter\bin\TransdataCenter.pdb
+D:\桌面\Asp.net\TransdataCenterV5.10\TransdataCenterV5.10\TransdataCenter1\TransdataCenter\bin\BLL.dll
+D:\桌面\Asp.net\TransdataCenterV5.10\TransdataCenterV5.10\TransdataCenter1\TransdataCenter\bin\DAL.dll
+D:\桌面\Asp.net\TransdataCenterV5.10\TransdataCenterV5.10\TransdataCenter1\TransdataCenter\bin\DBAccess.dll
+D:\桌面\Asp.net\TransdataCenterV5.10\TransdataCenterV5.10\TransdataCenter1\TransdataCenter\bin\BLL.pdb
+D:\桌面\Asp.net\TransdataCenterV5.10\TransdataCenterV5.10\TransdataCenter1\TransdataCenter\bin\DAL.pdb
+D:\桌面\Asp.net\TransdataCenterV5.10\TransdataCenterV5.10\TransdataCenter1\TransdataCenter\bin\DBAccess.pdb
+D:\桌面\Asp.net\TransdataCenterV5.10\TransdataCenterV5.10\TransdataCenter1\TransdataCenter\obj\Debug\TransDataCenter.csprojResolveAssemblyReference.cache
+D:\桌面\Asp.net\TransdataCenterV5.10\TransdataCenterV5.10\TransdataCenter1\TransdataCenter\obj\Debug\TransdataCenter.dll
+D:\桌面\Asp.net\TransdataCenterV5.10\TransdataCenterV5.10\TransdataCenter1\TransdataCenter\obj\Debug\TransdataCenter.pdb
+E:\ProgramCode\html+css+js\公交\TransdataCenterV5.11\TransdataCenterV5.10\TransdataCenterV5.10\TransdataCenter1\TransdataCenter\bin\TransdataCenter.dll
+E:\ProgramCode\html+css+js\公交\TransdataCenterV5.11\TransdataCenterV5.10\TransdataCenterV5.10\TransdataCenter1\TransdataCenter\bin\TransdataCenter.pdb
+E:\ProgramCode\html+css+js\公交\TransdataCenterV5.11\TransdataCenterV5.10\TransdataCenterV5.10\TransdataCenter1\TransdataCenter\bin\BLL.dll
+E:\ProgramCode\html+css+js\公交\TransdataCenterV5.11\TransdataCenterV5.10\TransdataCenterV5.10\TransdataCenter1\TransdataCenter\bin\DAL.dll
+E:\ProgramCode\html+css+js\公交\TransdataCenterV5.11\TransdataCenterV5.10\TransdataCenterV5.10\TransdataCenter1\TransdataCenter\bin\DBAccess.dll
+E:\ProgramCode\html+css+js\公交\TransdataCenterV5.11\TransdataCenterV5.10\TransdataCenterV5.10\TransdataCenter1\TransdataCenter\bin\BLL.pdb
+E:\ProgramCode\html+css+js\公交\TransdataCenterV5.11\TransdataCenterV5.10\TransdataCenterV5.10\TransdataCenter1\TransdataCenter\bin\DAL.pdb
+E:\ProgramCode\html+css+js\公交\TransdataCenterV5.11\TransdataCenterV5.10\TransdataCenterV5.10\TransdataCenter1\TransdataCenter\bin\DBAccess.pdb
+E:\ProgramCode\html+css+js\公交\TransdataCenterV5.11\TransdataCenterV5.10\TransdataCenterV5.10\TransdataCenter1\TransdataCenter\obj\Debug\TransDataCenter.csprojResolveAssemblyReference.cache
+E:\ProgramCode\html+css+js\公交\TransdataCenterV5.11\TransdataCenterV5.10\TransdataCenterV5.10\TransdataCenter1\TransdataCenter\obj\Debug\TransdataCenter.dll
+E:\ProgramCode\html+css+js\公交\TransdataCenterV5.11\TransdataCenterV5.10\TransdataCenterV5.10\TransdataCenter1\TransdataCenter\obj\Debug\TransdataCenter.pdb
+D:\桌面\Asp.net\TransdataCenterV5.12\TransdataCenterV5.12\TransdataCenterV5.10\TransdataCenter1\TransdataCenter\bin\TransdataCenter.dll
+D:\桌面\Asp.net\TransdataCenterV5.12\TransdataCenterV5.12\TransdataCenterV5.10\TransdataCenter1\TransdataCenter\bin\TransdataCenter.pdb
+D:\桌面\Asp.net\TransdataCenterV5.12\TransdataCenterV5.12\TransdataCenterV5.10\TransdataCenter1\TransdataCenter\bin\BLL.dll
+D:\桌面\Asp.net\TransdataCenterV5.12\TransdataCenterV5.12\TransdataCenterV5.10\TransdataCenter1\TransdataCenter\bin\DAL.dll
+D:\桌面\Asp.net\TransdataCenterV5.12\TransdataCenterV5.12\TransdataCenterV5.10\TransdataCenter1\TransdataCenter\bin\DBAccess.dll
+D:\桌面\Asp.net\TransdataCenterV5.12\TransdataCenterV5.12\TransdataCenterV5.10\TransdataCenter1\TransdataCenter\bin\BLL.pdb
+D:\桌面\Asp.net\TransdataCenterV5.12\TransdataCenterV5.12\TransdataCenterV5.10\TransdataCenter1\TransdataCenter\bin\DAL.pdb
+D:\桌面\Asp.net\TransdataCenterV5.12\TransdataCenterV5.12\TransdataCenterV5.10\TransdataCenter1\TransdataCenter\bin\DBAccess.pdb
+D:\桌面\Asp.net\TransdataCenterV5.12\TransdataCenterV5.12\TransdataCenterV5.10\TransdataCenter1\TransdataCenter\obj\Debug\TransDataCenter.csprojResolveAssemblyReference.cache
+D:\桌面\Asp.net\TransdataCenterV5.12\TransdataCenterV5.12\TransdataCenterV5.10\TransdataCenter1\TransdataCenter\obj\Debug\TransdataCenter.dll
+D:\桌面\Asp.net\TransdataCenterV5.12\TransdataCenterV5.12\TransdataCenterV5.10\TransdataCenter1\TransdataCenter\obj\Debug\TransdataCenter.pdb
+E:\ProgramCode\html+css+js\公交\TransdataCenterV5.13\TransdataCenter1\TransdataCenter\bin\TransdataCenter.dll
+E:\ProgramCode\html+css+js\公交\TransdataCenterV5.13\TransdataCenter1\TransdataCenter\bin\TransdataCenter.pdb
+E:\ProgramCode\html+css+js\公交\TransdataCenterV5.13\TransdataCenter1\TransdataCenter\bin\BLL.dll
+E:\ProgramCode\html+css+js\公交\TransdataCenterV5.13\TransdataCenter1\TransdataCenter\bin\DAL.dll
+E:\ProgramCode\html+css+js\公交\TransdataCenterV5.13\TransdataCenter1\TransdataCenter\bin\DBAccess.dll
+E:\ProgramCode\html+css+js\公交\TransdataCenterV5.13\TransdataCenter1\TransdataCenter\bin\BLL.pdb
+E:\ProgramCode\html+css+js\公交\TransdataCenterV5.13\TransdataCenter1\TransdataCenter\bin\DAL.pdb
+E:\ProgramCode\html+css+js\公交\TransdataCenterV5.13\TransdataCenter1\TransdataCenter\bin\DBAccess.pdb
+E:\ProgramCode\html+css+js\公交\TransdataCenterV5.13\TransdataCenter1\TransdataCenter\obj\Debug\TransDataCenter.csprojResolveAssemblyReference.cache
+E:\ProgramCode\html+css+js\公交\TransdataCenterV5.13\TransdataCenter1\TransdataCenter\obj\Debug\TransdataCenter.dll
+E:\ProgramCode\html+css+js\公交\TransdataCenterV5.13\TransdataCenter1\TransdataCenter\obj\Debug\TransdataCenter.pdb
+D:\桌面\Asp.net\TransdataCenterV5.14\TransdataCenter1\TransdataCenter\bin\TransdataCenter.dll
+D:\桌面\Asp.net\TransdataCenterV5.14\TransdataCenter1\TransdataCenter\bin\TransdataCenter.pdb
+D:\桌面\Asp.net\TransdataCenterV5.14\TransdataCenter1\TransdataCenter\bin\BLL.dll
+D:\桌面\Asp.net\TransdataCenterV5.14\TransdataCenter1\TransdataCenter\bin\DAL.dll
+D:\桌面\Asp.net\TransdataCenterV5.14\TransdataCenter1\TransdataCenter\bin\DBAccess.dll
+D:\桌面\Asp.net\TransdataCenterV5.14\TransdataCenter1\TransdataCenter\bin\BLL.pdb
+D:\桌面\Asp.net\TransdataCenterV5.14\TransdataCenter1\TransdataCenter\bin\DAL.pdb
+D:\桌面\Asp.net\TransdataCenterV5.14\TransdataCenter1\TransdataCenter\bin\DBAccess.pdb
+D:\桌面\Asp.net\TransdataCenterV5.14\TransdataCenter1\TransdataCenter\obj\Debug\TransDataCenter.csprojResolveAssemblyReference.cache
+D:\桌面\Asp.net\TransdataCenterV5.14\TransdataCenter1\TransdataCenter\obj\Debug\TransdataCenter.dll
+D:\桌面\Asp.net\TransdataCenterV5.14\TransdataCenter1\TransdataCenter\obj\Debug\TransdataCenter.pdb
+E:\ProgramCode\html+css+js\公交\TransdataCenterV5.16\TransdataCenter1\TransdataCenter\bin\TransdataCenter.dll
+E:\ProgramCode\html+css+js\公交\TransdataCenterV5.16\TransdataCenter1\TransdataCenter\bin\TransdataCenter.pdb
+E:\ProgramCode\html+css+js\公交\TransdataCenterV5.16\TransdataCenter1\TransdataCenter\bin\BLL.dll
+E:\ProgramCode\html+css+js\公交\TransdataCenterV5.16\TransdataCenter1\TransdataCenter\bin\DAL.dll
+E:\ProgramCode\html+css+js\公交\TransdataCenterV5.16\TransdataCenter1\TransdataCenter\bin\DBAccess.dll
+E:\ProgramCode\html+css+js\公交\TransdataCenterV5.16\TransdataCenter1\TransdataCenter\bin\BLL.pdb
+E:\ProgramCode\html+css+js\公交\TransdataCenterV5.16\TransdataCenter1\TransdataCenter\bin\DAL.pdb
+E:\ProgramCode\html+css+js\公交\TransdataCenterV5.16\TransdataCenter1\TransdataCenter\bin\DBAccess.pdb
+E:\ProgramCode\html+css+js\公交\TransdataCenterV5.16\TransdataCenter1\TransdataCenter\obj\Debug\TransDataCenter.csprojResolveAssemblyReference.cache
+E:\ProgramCode\html+css+js\公交\TransdataCenterV5.16\TransdataCenter1\TransdataCenter\obj\Debug\TransdataCenter.dll
+E:\ProgramCode\html+css+js\公交\TransdataCenterV5.16\TransdataCenter1\TransdataCenter\obj\Debug\TransdataCenter.pdb
+D:\桌面\Asp.net\TransdataCenterV5.17\TransdataCenterV5.17\TransdataCenter1\TransdataCenter\bin\TransdataCenter.dll
+D:\桌面\Asp.net\TransdataCenterV5.17\TransdataCenterV5.17\TransdataCenter1\TransdataCenter\bin\TransdataCenter.pdb
+D:\桌面\Asp.net\TransdataCenterV5.17\TransdataCenterV5.17\TransdataCenter1\TransdataCenter\bin\BLL.dll
+D:\桌面\Asp.net\TransdataCenterV5.17\TransdataCenterV5.17\TransdataCenter1\TransdataCenter\bin\DAL.dll
+D:\桌面\Asp.net\TransdataCenterV5.17\TransdataCenterV5.17\TransdataCenter1\TransdataCenter\bin\DBAccess.dll
+D:\桌面\Asp.net\TransdataCenterV5.17\TransdataCenterV5.17\TransdataCenter1\TransdataCenter\bin\BLL.pdb
+D:\桌面\Asp.net\TransdataCenterV5.17\TransdataCenterV5.17\TransdataCenter1\TransdataCenter\bin\DAL.pdb
+D:\桌面\Asp.net\TransdataCenterV5.17\TransdataCenterV5.17\TransdataCenter1\TransdataCenter\bin\DBAccess.pdb
+D:\桌面\Asp.net\TransdataCenterV5.17\TransdataCenterV5.17\TransdataCenter1\TransdataCenter\obj\Debug\TransDataCenter.csprojResolveAssemblyReference.cache
+D:\桌面\Asp.net\TransdataCenterV5.17\TransdataCenterV5.17\TransdataCenter1\TransdataCenter\obj\Debug\TransdataCenter.dll
+D:\桌面\Asp.net\TransdataCenterV5.17\TransdataCenterV5.17\TransdataCenter1\TransdataCenter\obj\Debug\TransdataCenter.pdb

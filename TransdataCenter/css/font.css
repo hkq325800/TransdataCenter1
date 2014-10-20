@@ -1,0 +1,211 @@
+﻿body
+{
+	font-family: 微软雅黑;
+	font-size:100%;/*IE 在重设文本大小时，会比正常的尺寸更大或更小。*/
+	font-size: 12px
+}
+
+#menu
+{
+	font-size: 14px;
+	color: #393939;
+}
+
+.text1
+{
+	font-size: 14px;
+	color: #990000;
+	line-height: 250%;
+	width: 315px;
+}
+
+.text2
+{
+	color: #545454;
+	line-height: 200%;
+}
+
+.text4
+{
+	font-size: 15px;
+	font-weight: bold;
+	color: #333333;
+}
+.text5
+{
+	color: #990000;
+}
+
+#menu a:link 
+{ 
+	color: #393939;
+	text-decoration: none; 
+} 
+#menu a:visited
+{
+	color: #393939;
+	text-decoration: none; 
+}
+
+#menu a:hover
+{
+	color: #990000;
+	text-decoration: none; 
+}
+.midBlock
+{
+    font-size: 14px;
+}
+
+.more
+{
+	color: #990000;
+}
+
+.infoTitle
+{
+  color: #FFFFFF; 
+  font-size: 14px;
+  line-height: 2.5;
+}
+
+.day
+{
+  color: #333333; 
+  font-size: 14px;  
+}
+
+.textField3,.textField4,.textField0
+{
+  line-height: 200%;
+  letter-spacing: 1px;
+}
+
+
+#footerContent
+{
+  font-size: 14px;
+  line-height: 250%;
+}
+#textField2-2 a:link 
+{ 
+    color: #66acc9;
+	text-decoration: none; 
+} 
+#textField2-2 a:visited
+{
+    color: #66acc9;
+	text-decoration: none; 
+}
+
+#textField2-2 a:hover
+{
+    color: #66acc9;
+	text-decoration: none; 
+}
+
+.textField3 a:link 
+{ 
+    color: #66acc9;
+	text-decoration: none; 
+} 
+.textField3 a:visited
+{
+    color: #66acc9;
+	text-decoration: none; 
+}
+
+.textField3 a:hover
+{
+    color: #66acc9;
+	text-decoration: none; 
+}
+
+.textField4 a:link 
+{ 
+    color: #66acc9;
+	text-decoration: none; 
+} 
+.textField4 a:visited
+{
+    color: #66acc9;
+	text-decoration: none; 
+}
+
+.textField4 a:hover
+{
+    color: #66acc9;
+	text-decoration: none; 
+}
+
+.textField5 a:link 
+{ 
+    color: #66acc9;
+	text-decoration: none; 
+} 
+.textField5 a:visited
+{
+    color: #66acc9;
+	text-decoration: none; 
+}
+
+.textField5 a:hover
+{
+    color: #66acc9;
+	text-decoration: none; 
+}
+
+
+.text5 a:link
+{
+    color: #990000;
+	text-decoration: none; 
+}
+
+.text5 a:visited
+{
+    color: #990000;
+	text-decoration: none; 
+}
+
+.text5 a:hover
+{
+    color: #990000;
+	text-decoration: underline; 
+}
+
+.info .titleBar a:link
+{
+    color: #ffffff;
+	text-decoration: none; 
+}
+
+.info .titleBar a:visited
+{
+    color: #ffffff;
+	text-decoration: none; 
+}
+
+.info .titleBar a:hover
+{
+    color: #999999;
+	text-decoration: none; 
+}
+
+.info2 .titleBar a:link
+{
+    color: #000000;
+	text-decoration: none; 
+}
+
+.info2 .titleBar a:visited
+{
+    color: #000000;
+	text-decoration: none; 
+}
+
+.info2 .titleBar a:hover
+{
+    color: #725472;
+	text-decoration: none; 
+}

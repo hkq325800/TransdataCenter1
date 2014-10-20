@@ -1,0 +1,113 @@
+﻿BODY
+{
+	margin: 0px;
+	line-height: 130%;
+	font-size: 9pt;
+}
+
+TABLE
+{
+}
+
+TH, TD
+{
+}
+
+A
+{
+	color: #0e649d;
+	text-decoration: none;
+}
+
+A:visited
+{
+	text-decoration: none;
+	color: #0e649d;
+}
+
+
+DIV.Menu
+{
+	padding-left: 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+/* 信息返回提示框*/
+DIV.ReturnMsg
+{
+	border-style: solid none solid solid;
+	border-width: 1px;
+	border-color: #D4D0C8;
+	padding: 5px 5px 5px 5px;
+	margin-left: 5px;
+	background-color: white;
+}
+
+DIV.LeftMenuPanel Table
+{
+	background-color: #99CCFF;
+}
+
+DIV.LeftMenuPanel A
+{
+	display: block;
+	padding-left: 20px;
+	width: 120px;
+	background-color: #efefef;
+	line-height: 27px;
+	cursor: pointer;
+}
+
+DIV.LeftMenuPanel A:hover
+{
+	background-color: Transparent;
+	color: #FFFFFF;
+}
+
+TD.LeftMenuPanel_AppTD A
+{
+	background-color: Transparent;
+	background-image: url(      '/images/TableHead.jpg' );
+	background-repeat: no-repeat;
+	font-weight: bold;
+	font-size: 11pt;
+}
+
+TD.LeftMenuPanel_SelectTD
+{
+	border-bottom: solid 1px skyblue;
+	border-left: solid 1px skyblue;
+	border-top: solid 1px skyblue;
+}
+
+TD.LeftMenuPanel_SelectTD A
+{
+	background-color: #FFFFFF;
+}
+
+DIV.contenTitle
+{
+	line-height: 150%;
+	margin: 0px 0px 0px 0px;
+	color: White;
+	height: 18px;
+	background-color: #FFFFFF;
+	background-image: url( '../images/menu_leftbar.gif' ); /*background-repeat: repeat;*/
+	padding-left: 18px; /*border-bottom-style: dotted;*/
+	border-bottom-width: thick;
+}
+/* 信息返回提示边框 警告 */
+.ReturnWarning
+{
+	margin: 4px 2px 2px 6px;
+	padding: 0px 0px 0px 30px;
+	border: 1px #D4D0C8 solid;
+	vertical-align: middle;
+	height: 20px;
+	line-height: 20px;
+	background-position: 10px;
+	background-color: white;
+	background-image: url('../images/icon_warn.gif');
+	background-repeat: no-repeat;
+}

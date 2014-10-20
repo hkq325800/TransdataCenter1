@@ -1,0 +1,35 @@
+D:\快盘\项目-数据中心\TransdataCenter\DBAccess\bin\Debug\DBAccess.dll
+D:\快盘\项目-数据中心\TransdataCenter\DBAccess\bin\Debug\DBAccess.pdb
+D:\快盘\项目-数据中心\TransdataCenter\DBAccess\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\快盘\项目-数据中心\TransdataCenter\DBAccess\obj\x86\Debug\DBAccess.dll
+D:\快盘\项目-数据中心\TransdataCenter\DBAccess\obj\x86\Debug\DBAccess.pdb
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\TransdataCenter\DBAccess\bin\Debug\DBAccess.dll
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\TransdataCenter\DBAccess\bin\Debug\DBAccess.pdb
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\TransdataCenter\DBAccess\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\TransdataCenter\DBAccess\obj\x86\Debug\DBAccess.dll
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\TransdataCenter\DBAccess\obj\x86\Debug\DBAccess.pdb
+F:\Visual C#\TransdataCenter\DBAccess\bin\Debug\DBAccess.dll
+F:\Visual C#\TransdataCenter\DBAccess\bin\Debug\DBAccess.pdb
+F:\Visual C#\TransdataCenter\DBAccess\obj\x86\Debug\DBAccess.csprojResolveAssemblyReference.cache
+F:\Visual C#\TransdataCenter\DBAccess\obj\x86\Debug\DBAccess.dll
+F:\Visual C#\TransdataCenter\DBAccess\obj\x86\Debug\DBAccess.pdb
+E:\Visual C#\TransdataCenter\DBAccess\bin\Debug\DBAccess.dll
+E:\Visual C#\TransdataCenter\DBAccess\bin\Debug\DBAccess.pdb
+E:\Visual C#\TransdataCenter\DBAccess\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Visual C#\TransdataCenter\DBAccess\obj\x86\Debug\DBAccess.dll
+E:\Visual C#\TransdataCenter\DBAccess\obj\x86\Debug\DBAccess.pdb
+D:\桌面\Asp.net\TransdataCenter\DBAccess\bin\Debug\DBAccess.dll
+D:\桌面\Asp.net\TransdataCenter\DBAccess\bin\Debug\DBAccess.pdb
+D:\桌面\Asp.net\TransdataCenter\DBAccess\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\桌面\Asp.net\TransdataCenter\DBAccess\obj\x86\Debug\DBAccess.dll
+D:\桌面\Asp.net\TransdataCenter\DBAccess\obj\x86\Debug\DBAccess.pdb
+D:\桌面\Asp.net\TransdataCenter1\DBAccess\bin\Debug\DBAccess.dll
+D:\桌面\Asp.net\TransdataCenter1\DBAccess\bin\Debug\DBAccess.pdb
+D:\桌面\Asp.net\TransdataCenter1\DBAccess\obj\x86\Debug\DBAccess.dll
+D:\桌面\Asp.net\TransdataCenter1\DBAccess\obj\x86\Debug\DBAccess.pdb
+D:\桌面\Asp.net\TransdataCenter1\DBAccess\obj\x86\Debug\DBAccess.csprojResolveAssemblyReference.cache
+D:\桌面\Asp.net\TransdataCenterV4.23\TransdataCenter1\DBAccess\bin\Debug\DBAccess.dll
+D:\桌面\Asp.net\TransdataCenterV4.23\TransdataCenter1\DBAccess\bin\Debug\DBAccess.pdb
+D:\桌面\Asp.net\TransdataCenterV4.23\TransdataCenter1\DBAccess\obj\x86\Debug\DBAccess.dll
+D:\桌面\Asp.net\TransdataCenterV4.23\TransdataCenter1\DBAccess\obj\x86\Debug\DBAccess.pdb
+D:\桌面\Asp.net\TransdataCenterV4.23\TransdataCenter1\DBAccess\obj\x86\Debug\DBAccess.csprojResolveAssemblyReference.cache

@@ -1,0 +1,82 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="PIMSSite.master.cs" Inherits="PIMSSite" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <title>杭州公交集团停车场查询系统</title>
+    <link href="/CSS/StyleSheet.css" rel="Stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <asp:ScriptManager ID="scriptmanager" runat="server" EnableScriptGlobalization="true"
+        EnableScriptLocalization="true">
+    </asp:ScriptManager>
+    <center>
+        <table cellspacing="0" cellpadding="0" style="background-color: #EEEEEE; height: 106px;">
+            <tr>
+                <td valign="top">
+                    <asp:ImageButton ID="ImageButton1" runat="server" ImageUrl="~/images/Content/HDC_Content_01.jpg"
+                        PostBackUrl="" ToolTip="" Enabled="false" />
+                </td>
+                <td valign="top">
+                    <asp:ImageButton ID="btn_Default" runat="server" ImageUrl="~/images/Content/HDC_Content_02.jpg"
+                        PostBackUrl="/Default.aspx" ToolTip="转到门户首页" />
+                </td>
+                <td valign="top">
+                    <asp:ImageButton ID="btn_WidgetSet" runat="server" ImageUrl="~/images/Content/HDC_Content_03.jpg"
+                        PostBackUrl="/SysMan/WidgetShowSetFrm.aspx" ToolTip="设置你想在门户主页中显示的内容" />
+                </td>
+                <td valign="top">
+                    <asp:ImageButton ID="ImageButton2" runat="server" ImageUrl="~/images/Content/HDC_Content_04.jpg"
+                        PostBackUrl="" ToolTip="" Enabled="False" />
+                </td>
+                <td valign="top">
+                    <asp:ImageButton ID="ImageButton3" runat="server" ImageUrl="~/images/Content/HDC_Content_05.jpg"
+                        PostBackUrl="" ToolTip="" Enabled="False" />
+                </td>
+                <td valign="top">
+                    <asp:ImageButton ID="ImageButton4" runat="server" ImageUrl="~/images/Content/HDC_Content_06.jpg"
+                        PostBackUrl="" ToolTip="" Enabled="False" />
+                </td>
+                <td valign="top">
+                    <asp:ImageButton ID="ImageButton5" runat="server" ImageUrl="~/images/Content/HDC_Content_07.jpg"
+                        PostBackUrl="" ToolTip="" Enabled="False" />
+                </td>
+                <td valign="top">
+                    <asp:ImageButton ID="btn_Logout" runat="server" ImageUrl="~/images/Content/HDC_Content_09.jpg"
+                        PostBackUrl="" ToolTip="" OnClick="btn_Logout_Click" />
+                </td>
+                <td valign="top">
+                    <asp:ImageButton ID="ImageButton6" runat="server" ImageUrl="~/images/Content/HDC_Content_10.jpg"
+                        PostBackUrl="" ToolTip="" Enabled="False" />
+                </td>
+            </tr>
+        </table>
+        <table cellspacing="0" cellpadding="0" width="980">
+            <tr>
+                <td valign="top" style="width: 150px; height: 450px; background-color: White;" align="left">
+                    <asp:Panel ID="LeftMenuPanel" runat="server" CssClass="LeftMenuPanel">
+                    </asp:Panel>
+                </td>
+                <td align="left" valign="top">
+                    <div class="Menu">
+                        <asp:ImageButton ID="ImageButton7" runat="server" ImageUrl="~/images/hello.gif" PostBackUrl=""
+                            ToolTip="" />&nbsp;>>&nbsp;<asp:Label ID="Label_UserInfo" runat="server" EnableViewState="false"
+                                Text=""></asp:Label>
+                    </div>
+                    <div style="width: 100%;">
+                        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                        </asp:ContentPlaceHolder>
+                    </div>
+                </td>
+            </tr>
+        </table>
+        <hr />
+        Copyright © 2007-<% Response.Write(DateTime.Now.Year.ToString()); %>
+        Hangzhou Dianzi University All Rights Reserved
+    </center>
+    </form>
+</body>
+</html>
